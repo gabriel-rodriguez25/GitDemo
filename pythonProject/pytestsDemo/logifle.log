@@ -1,0 +1,20 @@
+2024-01-24 10:44:56,864 : INFO : pytestsDemo.test_logging : Information statement
+2024-01-24 10:44:56,865 : WARNING : pytestsDemo.test_logging : Something is in warning mode
+2024-01-24 10:44:56,865 : ERROR : pytestsDemo.test_logging : A major error has happened
+2024-01-24 10:44:56,865 : CRITICAL : pytestsDemo.test_logging : Critical issue
+2024-01-24 10:56:41,961 : DEBUG : pytestsDemo.test_logging : A debug statement is executed
+2024-01-24 10:56:41,962 : INFO : pytestsDemo.test_logging : Information statement
+2024-01-24 10:56:41,962 : DEBUG : pytestsDemo.test_logging : A debug statement is executed
+2024-01-24 10:56:41,962 : WARNING : pytestsDemo.test_logging : Something is in warning mode
+2024-01-24 10:56:41,962 : ERROR : pytestsDemo.test_logging : A major error has happened
+2024-01-24 10:56:41,963 : CRITICAL : pytestsDemo.test_logging : Critical issue
+2024-01-24 11:05:50,741 : CRITICAL : pytestsDemo.test_logging : Critical issue
+2024-01-24 11:06:08,303 : CRITICAL : pytestsDemo.test_logging : Critical issue
+2024-01-24 11:50:23,547 : INFO : pytestsDemo.BaseClass : Gabriel
+2024-01-24 11:51:00,920 : INFO : pytestsDemo.BaseClass : Gabriel
+2024-01-24 11:51:00,920 : INFO : pytestsDemo.BaseClass : Rodriguez
+2024-01-24 12:03:00,035 : INFO : pytestsDemo.BaseClass : Gabriel
+2024-01-24 12:03:00,035 : INFO : pytestsDemo.BaseClass : Rodriguez
+2024-01-24 12:08:04,075 : INFO : pytestsDemo.BaseClass : Gabriel
+2024-01-24 12:08:04,076 : INFO : pytestsDemo.BaseClass : Rodriguez
+2024-01-24 12:08:04,079 : CRITICAL : pytestsDemo.test_logging : Critical issue
